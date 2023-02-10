@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2013/07/13/12/16/cup-159523_960_720.png">
 </picture>
 
 <!--
