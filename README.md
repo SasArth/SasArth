@@ -1,7 +1,8 @@
 ### Hi there 👋
-
 <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2013/07/13/12/16/cup-159523_960_720.png">
  <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2013/07/13/12/16/cup-159523_960_720.png">
+ <img alt="YOUR-ALT-TEXT" src="https://cdn.pixabay.com/photo/2013/07/13/12/16/cup-159523_960_720.png">
 </picture>
 
 <!--
