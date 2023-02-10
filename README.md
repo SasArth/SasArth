@@ -5,6 +5,9 @@
  <img alt="YOUR-ALT-TEXT" src="https://cdn.pixabay.com/photo/2013/07/13/12/16/cup-159523_960_720.png">
 </picture>
 
+#About me
+Hi, I'm Atharva.
+
 <!--
 **SasArth/SasArth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
