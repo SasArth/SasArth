@@ -6,7 +6,7 @@
 </picture>
 
 #About me
-Hi, I'm Atharva.
+Hi, I'm Atharva Sasane, a diverse and driven student pursuing Electronics and Telecommunication Engineering. Enthusiastically building micro startups, spanning roles such as Entrepreneur, Ethical Hacker, Web Developer, Administrator, Game Developer, Book Author, and Graphic Designer. Committed to ongoing learning and hands-on experience as a part of various projects and ventures.
 
 <!--
 **SasArth/SasArth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
