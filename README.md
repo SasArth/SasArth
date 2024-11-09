@@ -1,13 +1,12 @@
+## About me
 ### Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2013/07/13/12/16/cup-159523_960_720.png">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2013/07/13/12/16/cup-159523_960_720.png">
- <img alt="YOUR-ALT-TEXT" src="https://cdn.pixabay.com/photo/2013/07/13/12/16/cup-159523_960_720.png">
-</picture>
+I am Atharva Sasane, a diverse and driven student pursuing a degree in Electronics and Telecommunication Engineering. I have a passion for building micro startups and have explored a wide range of roles including Entrepreneur, Ethical Hacker, Web Developer, Administrator, Game Developer, Book Author, and Graphic Designer.
+I am deeply committed to continuous learning and gaining hands-on experience through various projects and ventures. Whether it's developing innovative solutions or exploring new technologies, I'm always ready to take on new challenges.
 
-#About me
-Hi, I'm Atharva Sasane, a diverse and driven student pursuing Electronics and Telecommunication Engineering. Enthusiastically building micro startups, spanning roles such as Entrepreneur, Ethical Hacker, Web Developer, Administrator, Game Developer, Book Author, and Graphic Designer. Committed to ongoing learning and hands-on experience as a part of various projects and ventures.
+---
 
+## Connect with me
+[**LinkedIn**](https://www.linkedin.com/in/atharvasasane/)
 <!--
 **SasArth/SasArth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
